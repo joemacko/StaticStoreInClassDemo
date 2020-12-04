@@ -1,0 +1,11 @@
+body {
+    background-color: #CDE0E2;
+}
+
+#main-container section {
+    display: inline-block;
+}
+
+#side-bar {
+    float: left;
+}
