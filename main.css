@@ -110,3 +110,18 @@ body {
     font-weight: bold;
     color: #F09B5A;
 }
+
+footer {
+    width: 60%;
+    text-align: center;
+    margin: auto;
+    color: #F09B5A;
+}
+
+footer a {
+    margin: 0 5px;
+}
+
+footer h2 {
+    color: #F09B5A;
+}
